@@ -4,7 +4,7 @@ import getpass  # cross-platform secure password input
 
 # Store admin credentials
 ADMIN_NAME = "James Mwanri"
-ADMIN_PASSWORD = "Password!2004@"
+ADMIN_PASSWORD = "Password"
 
 # File to store customer data
 DATA_FILE = "customers_data.json"
